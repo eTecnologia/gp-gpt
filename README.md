@@ -1,2 +1,3 @@
 # gp-gpt
-Repositório de Prompts do GP-GPT (Um chat inteligente dedicado a Gestão de Projetos.) 
+Repositório de Prompts do GP-GPT (Um chat inteligente dedicado a Gestão de Projetos). 
+
