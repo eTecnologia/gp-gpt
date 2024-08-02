@@ -21,4 +21,6 @@ Repositório de Prompts do GP-GPT (Um chat inteligente dedicado a Gestão de Pro
 
 [Passo a Passo](https://github.com/eTecnologia/gp-gpt/wiki/Passo-a-Passo)
 
-[Projeto: Casinha do Rex ‐ Artefatos e Documentos de Gestão de Projetos](https://github.com/eTecnologia/gp-gpt/wiki/Projeto:-Casinha-do-Rex-%E2%80%90-Artefatos-e-Documentos-de-Gest%C3%A3o-de-Projetos)
+[Projeto: Prompt Projeto: Casinha do Rex](https://github.com/eTecnologia/gp-gpt/wiki/Projeto:-Casinha-do-Rex-%E2%80%90-Artefatos-e-Documentos-de-Gest%C3%A3o-de-Projetos)
+
+[Download: Prompt Projeto: Casinha do Rex](https://drive.google.com/file/d/1-BoDnsU29r2i26cZdetxwjZN290DMeYj/view?usp=sharing)
